@@ -6,6 +6,6 @@ Lynnfield Historical Consulting (LHC) aims to create awareness about the necessi
 
 ## Contact Us
 
-- **Email**: lynnfieldhistorical@proton.me
-- **Website**: lynnfieldhistorical.github.io (coming soon!)
+- **Email**: lynnfieldhistorical@gmail.com
+- **Website**: lynnfieldhistorical.github.io 
 
